@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/webdevPortfolio/static/media/samantha.491cbce4.woff"
   },
   {
-    "revision": "8b4ee5d85996de14800d",
-    "url": "/webdevPortfolio/static/css/main.da9d73b7.chunk.css"
+    "revision": "7e531f6e9d35441dc6ee",
+    "url": "/webdevPortfolio/static/css/main.3b00b444.chunk.css"
   },
   {
     "revision": "43392c9266ba6334c6d2",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/webdevPortfolio/static/media/flower_top_left.841b0479.png"
   },
   {
-    "revision": "8b4ee5d85996de14800d",
-    "url": "/webdevPortfolio/static/js/main.24b03cce.chunk.js"
+    "revision": "7e531f6e9d35441dc6ee",
+    "url": "/webdevPortfolio/static/js/main.c6eef4e1.chunk.js"
   },
   {
     "revision": "e48004f2c67d30bfc783fe40b748d4e1",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/webdevPortfolio/static/media/project2_selected.8892e8c2.png"
   },
   {
-    "revision": "599f9abb1801f072702edf2b9b308dfb",
+    "revision": "b44f4b78369aa981c5a9d6cdbb3a8cf7",
     "url": "/webdevPortfolio/index.html"
   }
 ];
