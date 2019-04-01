@@ -1,0 +1,63 @@
+.projects {
+    height: 100vh;
+    margin: 50px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    .title {
+        display: flex;
+        justify-content: space-between;
+        font-size: 18pt;
+        &_col2 {
+            
+            text-align: center;
+        }
+    }
+    .bird {
+        width: 30%;
+    }
+    .curl {
+         width: 10%;
+         align-self: flex-start;
+    }
+    @media only screen and (max-width: 650px) {
+        width: 90%;
+        .title {
+            background-color: orange;
+            font-size: 4vw;
+            .bird {
+                width: 40%;
+            }
+            .curl {
+                 width: 15%;
+                 align-self: flex-start;
+            }
+        }
+        
+    }
+}
+    // @media only screen and (max-width: 650px) {
+    //     background-color: yellow;
+    //     width: 90%;
+    //     .bird {
+    //         width: 50%;
+    //     }
+    //     .curl {
+    //         width: 100%;
+    //     }
+    //     .title {
+    //         &_col1, &_col3 {
+    //             background-color: lightcoral;
+    //             width: 30%;
+                
+    //         }
+    //         &_col2 {
+                
+    //         }
+
+    //     }
+        // .curl {
+        //     width: 100%;
+        // }
+    //}
+

@@ -27,7 +27,7 @@ class mobile extends Component {
         console.log(this.state.width)
         return (
             <div>
-                {(this.state.width < 600) ?  <MobileView /> : <DesktopView />}
+                {/* {(this.state.width < 600) ?  <MobileView /> : <DesktopView />} */}
                test
             </div>
         );
