@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "secondaryFont";
+    src: url("../../../static/samantha.woff") format('woff');
+}
+.title_desktop {
+    display: flex;
+    height: 100vh;
+    min-height: 500px;
+    flex-direction: column;
+    // background-color: orange;
+    justify-content: center;
+    .innerContainer {
+        display: flex;
+        flex-direction: column;
+        // height: 70vh;
+        // width: 80%;
+        max-width: 600px;
+        align-self: center;
+        // justify-content: space-between;
+    }
+    .title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        font-size: 22pt;
+            // background-color: teal;
+        // .row1 {
+        //     display: flex;
+        //     align-items: center;
+        //     justify-content: space-around;
+        // }
+    }
+    .subTitle {
+        margin-top: 10px;
+        font-size: 18pt;
+        width: 415px;
+        display: flex;
+        flex-direction: column;
+        margin-right: auto;
+        margin-left: auto;
+        h2 {
+            font-family: "secondaryFont";
+        }
+        .line {
+            margin-top: -20px;
+        }
+        
+        &_col1 {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        &_col2 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 10px;
+        }
+        
+    }
+    .image {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-around;
+        // background-color: blue;
+        // height: 50%;
+        // width: 100%;
+        margin-top: 10%;
+        .portrait {
+            // padding-bottom: 35px;
+            // height:100px;
+            // height: 65%;
+        
+        }
+        .flower{
+            // width: 14%;
+        }
+}
+
+}
