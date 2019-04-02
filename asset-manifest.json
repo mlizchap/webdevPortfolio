@@ -1,5 +1,5 @@
 {
-  "main.css": "/webdevPortfolio/static/css/main.456d8a34.chunk.css",
+  "main.css": "/webdevPortfolio/static/css/main.2ca2c81d.chunk.css",
   "main.js": "/webdevPortfolio/static/js/main.c6eef4e1.chunk.js",
   "main.js.map": "/webdevPortfolio/static/js/main.c6eef4e1.chunk.js.map",
   "runtime~main.js": "/webdevPortfolio/static/js/runtime~main.3f590cd9.js",
@@ -7,9 +7,9 @@
   "static/js/2.17da54c8.chunk.js": "/webdevPortfolio/static/js/2.17da54c8.chunk.js",
   "static/js/2.17da54c8.chunk.js.map": "/webdevPortfolio/static/js/2.17da54c8.chunk.js.map",
   "index.html": "/webdevPortfolio/index.html",
-  "precache-manifest.5b4a8308d63c065d899f5cf2119c3bf2.js": "/webdevPortfolio/precache-manifest.5b4a8308d63c065d899f5cf2119c3bf2.js",
+  "precache-manifest.4700a555a87fc21298466c940156d457.js": "/webdevPortfolio/precache-manifest.4700a555a87fc21298466c940156d457.js",
   "service-worker.js": "/webdevPortfolio/service-worker.js",
-  "static/css/main.456d8a34.chunk.css.map": "/webdevPortfolio/static/css/main.456d8a34.chunk.css.map",
+  "static/css/main.2ca2c81d.chunk.css.map": "/webdevPortfolio/static/css/main.2ca2c81d.chunk.css.map",
   "static/media/App.css": "/webdevPortfolio/static/media/3dSketch.e48004f2.woff",
   "static/media/arrow.png": "/webdevPortfolio/static/media/arrow.23234e67.png",
   "static/media/style.scss": "/webdevPortfolio/static/media/samantha.491cbce4.woff",
